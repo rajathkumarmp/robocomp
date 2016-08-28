@@ -1,0 +1,9 @@
+Jinja2
+Markdown
+PyYAML
+watchdog
+ghp-import
+markupsafe
+argh
+pathtools
+mkdocs
