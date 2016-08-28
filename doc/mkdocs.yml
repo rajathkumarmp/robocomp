@@ -1,0 +1,8 @@
+site_name: RoboComp
+site_description: Robotics Framework
+docs_dir: sources
+repo_url: https://github.com/rajathkumarmp/robocomp/
+theme: readthedocs
+pages:
+
+- Home: 'README.md'
